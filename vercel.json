@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://giao-ly-so-vinh-tho-v30.packedjelly3.chatgpt.site/dang-nhap",
+      "permanent": false
+    }
+  ]
+}
